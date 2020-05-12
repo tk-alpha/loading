@@ -1,0 +1,28 @@
+体 {
+    背景：#efefef;
+}
+
+#btn {
+    幅：200px;
+    高さ：200px;
+    背景：＃ef454a;
+    border-radius：50％;
+    マージン：30px自動;
+    text-align：中央;
+    line-height：200px;
+    色：白;
+    font-weight：太字;
+    font-size：42px;
+    カーソル：ポインタ;
+    box-shadow：0 10px 0 red;
+    ユーザー選択：なし。
+}
+
+#btn：hover {
+    不透明度：0.9;
+}
+
+#btn：active {
+    box-shadow：0 5px 0 red;
+    margin-top：35px;
+}
